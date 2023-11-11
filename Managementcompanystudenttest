@@ -1,0 +1,15 @@
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class ManagementCompanyTestStudent {
+
+    @Test
+    public void testAddProperty() {
+        // Test the addProperty method
+        // ...
+
+        assertTrue(true); // Placeholder
+    }
+
+    // Additional test methods for other public methods
+}
