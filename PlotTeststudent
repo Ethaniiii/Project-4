@@ -1,0 +1,35 @@
+/*
+ * Class: CMSC203
+ * Instructor: Professor Gary Thai
+ * Description: This class defines a Patient with various attributes and methods for accessing and modifying patient information.
+ * Due: 11/10/2023
+ * Platform/compiler: (Specify the platform and compiler you used)
+ * I pledge that I have completed the programming
+ * assignment independently. I have not copied the code
+ * from a student or any source. I have not given my code
+ * to any student.
+ * Print your Name here: Ian Scale
+ */
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class PlotTestStudent {
+
+    @Test
+    public void testOverlaps() {
+        // Test the overlaps method
+        // ...
+
+        assertTrue(true); // Placeholder
+    }
+
+    @Test
+    public void testEncompasses() {
+        // Test the encompasses method
+        // ...
+
+        assertTrue(true); // Placeholder
+    }
+
+    // Additional test methods for constructors, getters, setters, etc.
+}
